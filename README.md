@@ -1,4 +1,18 @@
 GitConflictResolver
 ===================
+Version 1.0
 
-Shell script that automatically fixes git merging conflicts the easy way.
+
+Installation:
+-------------
+- Place in ~/bin and give 755 mode
+
+
+Usage:
+------
+- Navigate to dir that has merge derps
+- Enter: 'fixmerge'
+- Follow instructions on screen
+
+
+(DO NOT EVER RUN IT FROM LOCAL DIR, THIS WILL DESTROY THE SCRIPT)
